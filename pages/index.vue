@@ -17,7 +17,7 @@
 export default {
   async asyncData({ $content, store, params, error }) {
     const slug = params.slug || 'index'
-    const articles = await $content('articles')
+    const articles = await $content('avonturen')
       .fetch()
       .catch((err) => {
         error({ statusCode: 404, message: 'Article not found' })

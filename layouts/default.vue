@@ -50,7 +50,7 @@ export default {
       miniVariant: false,
       right: true,
       rightDrawer: false,
-      title: 'Clifftale',
+      title: 'Avonturen van Pad',
     }
   },
   computed: {

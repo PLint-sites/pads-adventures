@@ -15,13 +15,13 @@
 export default {
   async asyncData({ $content, store, params, error }) {
     const slug = params.slug || 'index'
-    const article = await $content('articles', slug)
+    const article = await $content('avonturen', slug)
       .fetch()
       .catch((err) => {
         error({ statusCode: 404, message: 'Article not found' })
       })
     store.commit('setTocFromArticle', article.toc)
-    const [prev, next] = await $content('articles')
+    const [prev, next] = await $content('avonturen')
       .only(['title', 'slug'])
       .sortBy('title')
       .surround(params.slug)
