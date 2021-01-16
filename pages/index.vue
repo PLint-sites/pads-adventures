@@ -1,5 +1,5 @@
 <template>
-  <v-row justify="center" align="center">
+  <!--<v-row justify="center" align="center">
     <v-col cols="12" sm="8" md="6">
       <v-card v-for="(article, index) of articles" :key="index" style="margin-bottom: 30px;">
         <v-card-title class="headline">{{article.title}}</v-card-title>
@@ -13,7 +13,14 @@
         </v-card-actions>
       </v-card>
     </v-col>
-  </v-row>
+  </v-row>-->
+  <div id="grid">
+    <div class="grid-item" v-for="(article, index) of articles" :key="index">
+      <img v-if="article.afbeelding_voor_listpage" :src="`${article.afbeelding_voor_listpage}`">
+      <br>
+      <v-btn color="primary" nuxt :to="`/${article.slug}`">{{article.title}}</v-btn>
+    </div>
+  </div>
 </template>
 
 <script>
@@ -33,3 +40,15 @@ export default {
   },
 }
 </script>
+
+<style lang="css" scoped>
+#grid {
+  display: grid;
+  grid-gap: 30px;
+  grid-template-columns: repeat( auto-fit, minmax(350px, 1fr) );
+}
+
+#grid img {
+  width: 100%;
+}
+</style>
