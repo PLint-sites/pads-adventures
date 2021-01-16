@@ -1,7 +1,7 @@
 ---
 title: Test avontuur
 description: Een avontuur met een mooi plaatje
-afbeelding_voor_listpage: ''
+afbeelding_voor_listpage: "/images/guineas.jpg"
 published: true
 
 ---
