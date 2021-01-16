@@ -14,28 +14,12 @@ fields:
     required: false
   label: description
   description: Description of the article
-- name: language
-  type: select
-  default: ''
-  config:
-    required: false
-    options:
-    - en
-    - es
-    - Nederlands
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: language
-  description: Language of the article
-- name: published
-  type: boolean
-  label: Published
-  description: If the article is published or not.
 - name: afbeelding_voor_listpage
   type: file
   config:
     maxSize: 64
   label: Afbeelding voor listpage
+- name: published
+  type: boolean
+  label: Published
+  description: If the article is published or not.
