@@ -48,7 +48,18 @@ export default {
   grid-template-columns: repeat( auto-fit, minmax(350px, 1fr) );
 }
 
-#grid img {
+.grid-item {
+  position: relative;
+  border: 5px solid grey;
+}
+
+#grid .grid-item img {
   width: 100%;
+}
+
+#grid .grid-item a {
+  position: absolute;
+  bottom: 0;
+  right: 0;
 }
 </style>
