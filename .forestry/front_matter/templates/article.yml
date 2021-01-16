@@ -23,3 +23,5 @@ fields:
   type: boolean
   label: Published
   description: If the article is published or not.
+pages:
+- content/avonturen/test-avontuur.md
