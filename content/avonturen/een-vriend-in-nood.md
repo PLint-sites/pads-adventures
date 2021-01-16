@@ -1,6 +1,7 @@
 ---
-title: Een vriend in nood
+title: Samuel L. Ipsum
 description: Gewoon wat lorem ipsum text
+
 ---
 **Samuel L. Ipsum**
 
