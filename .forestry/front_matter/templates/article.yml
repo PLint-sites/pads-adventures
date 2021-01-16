@@ -34,3 +34,8 @@ fields:
   type: boolean
   label: Published
   description: If the article is published or not.
+- name: afbeelding_voor_listpage
+  type: file
+  config:
+    maxSize: 64
+  label: Afbeelding voor listpage
