@@ -33,7 +33,6 @@ export default {
         error({ statusCode: 404, message: 'Article not found' })
       })
     store.commit('setTocFromArticles', articles)
-    console.log(articles)
     return {
       articles,
     }
@@ -50,7 +49,7 @@ export default {
 
 .grid-item {
   position: relative;
-  border: 5px solid grey;
+  border: 5px solid #1B5E20;
 }
 
 #grid .grid-item img {
