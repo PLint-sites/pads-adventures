@@ -1,6 +1,8 @@
 ---
 title: Samuel L. Ipsum
 description: Gewoon wat lorem ipsum text
+afbeelding_voor_listpage: "/images/pulp-fiction.jpg"
+published: true
 
 ---
 **Samuel L. Ipsum**

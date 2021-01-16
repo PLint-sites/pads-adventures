@@ -24,4 +24,5 @@ fields:
   label: Published
   description: If the article is published or not.
 pages:
+- content/avonturen/een-vriend-in-nood.md
 - content/avonturen/test-avontuur.md
