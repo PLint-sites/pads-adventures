@@ -23,6 +23,15 @@ fields:
   type: boolean
   label: Published
   description: If the article is published or not.
+- name: publishing_date
+  type: datetime
+  description: Needed to order the stories on the index page
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  label: Publishing date
 pages:
 - content/avonturen/een-onverwacht-telefoontje.md
 - content/avonturen/proloog.md
