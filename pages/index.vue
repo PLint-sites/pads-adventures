@@ -1,9 +1,5 @@
 <template>
   <div id="grid">
-    <!--<div class="grid-item" v-for="(article, index) of articles" :key="index">
-      <img v-if="article.afbeelding_voor_listpage" :src="`${article.afbeelding_voor_listpage}`">
-      <v-btn color="primary" nuxt :to="`/${article.slug}`">{{article.title}}</v-btn>
-    </div>-->
     <div class="grid-item" v-for="(article, index) of articles" :key="index" :style="background(article.afbeelding_voor_listpage)">
       <NuxtLink class="link-to-chapter" :to="`/${article.slug}`">
         <div class="green lighten-1 text-center">
@@ -11,6 +7,9 @@
         </div>
       </NuxtLink>
     </div>
+    <template v-if="articles.length < 4">
+      <div class="grid-item coming-soon" v-for="index in (4-articles.length)" :key="`${index}_1`">Coming soon</div>
+    </template>
   </div>
 </template>
 
@@ -59,6 +58,11 @@ export default {
   display: block;
   width: 100%;
   height: 100%;
+  padding: 10px;
+}
+
+.grid-item.coming-soon {
+  border: 2px dashed #1B5E20;
   padding: 10px;
 }
 </style>
