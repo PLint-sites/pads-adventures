@@ -53,11 +53,12 @@ export default {
   width: 100%;
   height: 250px;
   border: 5px solid #1B5E20;
-  padding: 10px;
 }
 
 #grid .grid-item .link-to-chapter {
   display: block;
   width: 100%;
+  height: 100%;
+  padding: 10px;
 }
 </style>
