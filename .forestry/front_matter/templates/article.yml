@@ -25,5 +25,4 @@ fields:
   description: If the article is published or not.
 pages:
 - content/avonturen/een-onverwacht-telefoontje.md
-- content/avonturen/een-vriend-in-nood.md
 - content/avonturen/proloog.md
