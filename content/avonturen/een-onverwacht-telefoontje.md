@@ -32,4 +32,16 @@ Maar eerst naar de kant zwemmen en aan pad geel laten zien.
 
 ![](/images/3-pad-en-pad-vinden-een-telefoon-a.jpg)
 
-Pad geel denk dat de telefoon ook aan het zonnen is. Hij snapt er duidelijk niet zo veel van dus daar heeft pad blauw niet zo veel aan. Hij moet het alleen doen. Hij drukt op de aan knop en zowaar, er gaat een lampje aan
+Pad geel denk dat de telefoon ook aan het zonnen is. Hij snapt er duidelijk niet zo veel van dus daar heeft pad blauw niet zo veel aan. Hij moet het alleen doen. Hij drukt op de aan knop en zowaar, er gaat een lampje aan. Het duurt wel even maar na een hele lange tijd is het toestel aangegaan.
+
+Pad blauw schrikt zich een hoedje als hij ziet wat er op het scherm verschijnt. Snel roept hij pad geel erbij.
+
+![](/images/4-de-telefoon-a.jpg)
+
+'Is dat onze vriend, pad blauw van Jeh?' Vraagt pad geel. 
+
+'Ik denk het wel', antwoordt pad blauw. Ze zijn het er snel over eens. De pad ziet er niet goed uit. En dat is nog zachtjes uitgedrukt. 
+
+'We moeten hem te hulp komen', zegt pad geel. Maar hoe dat dan moet weet hij niet.
+
+Pad blauw bedenkt zich ineens. Misschien kunnen ze Jeh opbellen en hem vertellen dat het heel slecht gaat met de pad.
