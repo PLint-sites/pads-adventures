@@ -2,7 +2,8 @@
 title: Proloog
 description: Ouwe pad overdenkt zijn leven
 afbeelding_voor_listpage: "/images/proloog-ouwe-pad.jpg"
-published: false
+published: true
+publishing_date: 2021-01-17T23:00:00Z
 
 ---
 # Proloog
