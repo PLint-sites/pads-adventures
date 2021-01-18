@@ -18,11 +18,11 @@ Meer dan eens bracht hij de nacht door op de grond naast het bed.  Maar vroeger 
 
 Ze waren onafscheidelijk, zeker die eerste jaren.
 
-Maar soms was pad ook kwijt. Hij kon daar zelf niks aan doen. Hij heeft eens een hele avond in de plafonniere doorgebracht op de slaapkamer. Steeds als er iemand binnenkwam probeerde hij dan de lamp te laten bewegen zodat hij gezien en gered zou worden. Maar meer nog maakte hij elke keer een schietgebedje dat de lamp niet aan zou gaan. Zijn zachte vacht zou heel warm worden en misschien wel in brand vliegen van de hete lamp.
+Maar soms was pad ook kwijt. Hij kon daar zelf niks aan doen. Hij heeft eens een hele avond in de plafonniere doorgebracht op de slaapkamer. Steeds als er iemand binnenkwam probeerde hij de lamp te laten bewegen zodat hij gezien en gered zou worden. Maar meer nog deed hij elke keer een schietgebedje dat de lamp niet aan zou gaan. Zijn zachte vacht zou heel warm worden en misschien wel in brand vliegen van de hete lamp.
 
 Erger nog was het als Jeh ziek was. Ook dan was pad dichtbij. Maar die ene keer dat er over hem heen was gekotst was niet zo fijn. Hij stonk een uur in de wind en moest in de wasmachine. Rondjes draaien, rondjes draaien en nog meer rondjes. Hij werd er zelf misselijk van. Nat en koud ook. Helemaal tot bovenin zijn hoed.
 
-Later kwamen er vriendjes bij. Pad geel was er ook ineens. Een beetje een domme pad was het. En nog een andere pad blauw en pad geel, een hele grote, maar die woonde bij Pee (spreek uit als peer alleen dan zonder de 'r' want die is moeilijk).
+Later kwamen er vriendjes bij. Pad geel was er ook ineens. Een beetje een domme pad was het. En nog een andere pad blauw en pad geel, een hele grote, maar die woonde bij Pee (spreek uit als peer alleen dan zonder de 'r' want die is te moeilijk).
 
 Pee wilde ook graag eenzelfde pad blauw maar die waren niet te vinden. Hij was uniek en daarom was Pee een beetje jaloers. Pad werd verstopt. Vooral die episode in het kruidenkastje in de keuken kan pad zich nog goed herinneren. Wat stonk hij toen ze hem eindelijk gevonden hadden. Maar hij hoefde gelukkig niet opnieuw in de wasmachine.
 
@@ -36,7 +36,7 @@ Pad was een beetje jaloers en wilde eigenlijk ook wel eens op reis.
 
 ![](/images/proloog-ouwe-pad.jpg)
 
-Zuchtend denkt pad blauw terug aan de tijd die nu ver achter hem ligt. Na bijna 30 jaar lijkt het einde langzaam gekomen te zijn. Er zit nauwelijks nog vulling in zijn lijf en zelfs zijn hoed wordt een beetje slap.
+Zuchtend denkt pad blauw terug aan de tijd die nu ver achter hem ligt. Na bijna 30 jaar lijkt het einde langzaam gekomen te zijn. Er zit nauwelijks nog vulling in zijn lijf en zelfs zijn hoed is niet meer zo fel en wordt een beetje slap.
 
 Hij draait zich nog maar eens om.
 
