@@ -3,7 +3,7 @@ title: Proloog
 description: Ouwe pad overdenkt zijn leven
 afbeelding_voor_listpage: "/images/proloog-ouwe-pad.jpg"
 published: true
-publishing_date: 2021-01-17T23:00:00Z
+publishing_date: 2021-01-17T23:00:00.000+00:00
 
 ---
 # Proloog
@@ -34,7 +34,7 @@ Nog later emigreerde pad geel zelfs. En hij nam bovendien pad's rode jas mee.
 
 ![](/images/proloog-ouwe-pad.jpg)
 
-Zuchtend, en met zijn dikke pootjes denkt pad blauw terug aan de tijd die nu ver achter hem ligt. Na bijna 30 jaar lijkt het einde langzaam gekomen te zijn. Er zit nauwelijks nog vulling in zijn lijf en zelfs zijn hoed wordt een beetje slap.
+Zuchtend denkt pad blauw terug aan de tijd die nu ver achter hem ligt. Na bijna 30 jaar lijkt het einde langzaam gekomen te zijn. Er zit nauwelijks nog vulling in zijn lijf en zelfs zijn hoed wordt een beetje slap.
 
 Hij draait zich nog maar eens om.
 
