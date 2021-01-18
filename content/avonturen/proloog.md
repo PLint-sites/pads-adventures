@@ -30,7 +30,9 @@ Het was pas zo'n 10-15 jaar later dat er meisjes bleven slapen bij Jeh en dat hi
 
 Pad geel werd zelfs verbannen naar de kast en heeft daar nog een poos gewoond. Bij de andere knuffels, zoals kikker.
 
-Nog later emigreerde pad geel zelfs. En hij nam bovendien pad's rode jas mee.
+Nog later emigreerde pad geel zelfs. En hij nam bovendien pad's rode jas mee. En laatst vertelde Jeh zelfs dat pad geel samen met de andere pad blauw op wereldreis was. Met een grote boot over de grote zee. Zouden ze zelfs terug gaan naar hun roots in de donkere wouden van Peru? In elk geval zouden ze het vast heel leuk hebben met elkaar.
+
+Pad was een beetje jaloers en wilde eigenlijk ook wel eens op reis. 
 
 ![](/images/proloog-ouwe-pad.jpg)
 
