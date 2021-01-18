@@ -42,4 +42,8 @@ Hij draait zich nog maar eens om.
 
 Beneden hoort hij de sleutel in het slot. Zal dat Jeh zijn? Hij hoort het brommen van zijn stem dus dat klopt. Is hij alleen? Dan is er misschien de kans dat hij nog eens een nachtje in het nekkie mag slapen. Maar nee, hij hoort ook een wat hogere stem. Het meisje van Jeh, denkt pad. Mijn kans is verkeken.
 
-Stilletjes kruipt pad in zijn hoekje van het bed.
+Stilletjes kruipt pad in zijn hoekje van het bed om even goed na te denken. Er moet toch een mogelijkheid zijn om hier uit te komen. 
+
+Dan schiet het hem te binnen. Jeh komt nog wel eens een beetje beschonken thuis. Als hij dan Jeh's telefoon te pakken kan krijgen... 
+
+Een plannetje ontvouwt zich in zijn brein. Hij is dan wel oud, maar zeker niet gek. Of versleten.
