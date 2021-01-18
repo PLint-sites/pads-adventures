@@ -10,7 +10,7 @@ publishing_date: 2021-01-17T23:00:00.000+00:00
 
 Pad blauw zucht en kijkt om zich heen. Het is donker. Hij is alleen en voelt zich ook alleen. Hoe anders was dat vroeger.
 
-Hij weet het nog goed. 16 november 1991, Jeh werd zes jaar en pad blauw maakte zijn entree. Op de Veldbloemweg. Nummertje 63. Iedereen was meteen weg van dit schattige kleine beertje met zijn fel blauwe hoed en mooie rode jas.
+Hij weet het nog goed. 16 november 1991, Jeh (padden kunnen de 'r' niet goed uitspreken, dus Jer wordt Jeh). werd zes jaar en pad blauw maakte zijn entree. Op de Veldbloemweg. Nummertje 63. Iedereen was meteen weg van dit schattige kleine beertje met zijn fel blauwe hoed en mooie rode jas.
 
 En elke nacht lekker slapen in het nekkie van Jeh. Somber bedenkt pad dat dat alweer een hele poos geleden is dat hij daar de nacht heeft doorgebracht. Als hij al mee in bed mag, dan ligt hij ergens aan de rand, weggestopt onder het kussen of is hij ernaast gevallen.
 
@@ -22,7 +22,7 @@ Maar soms was pad ook kwijt. Hij kon daar zelf niks aan doen. Hij heeft eens een
 
 Erger nog was het als Jeh ziek was. Ook dan was pad dichtbij. Maar die ene keer dat er over hem heen was gekotst was niet zo fijn. Hij stonk een uur in de wind en moest in de wasmachine. Rondjes draaien, rondjes draaien en nog meer rondjes. Hij werd er zelf misselijk van. Nat en koud ook. Helemaal tot bovenin zijn hoed.
 
-Later kwamen er vriendjes bij. Pad geel was er ook ineens. Een beetje een domme pad was het. En nog een andere pad blauw en pad geel, een hele grote, maar die woonde bij Pee.
+Later kwamen er vriendjes bij. Pad geel was er ook ineens. Een beetje een domme pad was het. En nog een andere pad blauw en pad geel, een hele grote, maar die woonde bij Pee (spreek uit als peer alleen dan zonder de 'r' want die is moeilijk).
 
 Pee wilde ook graag eenzelfde pad blauw maar die waren niet te vinden. Hij was uniek en daarom was Pee een beetje jaloers. Pad werd verstopt. Vooral die episode in het kruidenkastje in de keuken kan pad zich nog goed herinneren. Wat stonk hij toen ze hem eindelijk gevonden hadden. Maar hij hoefde gelukkig niet opnieuw in de wasmachine.
 
