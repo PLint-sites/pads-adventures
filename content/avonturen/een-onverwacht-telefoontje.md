@@ -33,7 +33,7 @@ Maar eerst naar de kant zwemmen en aan pad geel laten zien.
 
 ![](/images/3-pad-en-pad-vinden-een-telefoon-a.jpg)
 
-Pad geel denkt dat de telefoon ook aan het zonnen is. Hij snapt er duidelijk niet zo veel van dus daar heeft pad blauw niet zo veel aan. Hij moet het alleen doen. Hij drukt op de aan-knop en zowaar, er gaat een lampje aan. Het duurt wel even maar na een hele lange tijd is het toestel aangegaan.
+Pad geel denkt dat de telefoon ook aan het zonnen is. Hij snapt er duidelijk niet zo veel van dus daar heeft pad blauw niet veel aan. Hij moet het alleen doen. Hij drukt op de aan-knop en zowaar, er gaat een lampje aan. Het duurt wel even maar na een hele lange tijd is het toestel aangegaan.
 
 Pad blauw schrikt zich een hoedje als hij ziet wat er op het scherm verschijnt. Snel roept hij pad geel erbij.
 
