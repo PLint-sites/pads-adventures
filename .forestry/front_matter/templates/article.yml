@@ -33,5 +33,6 @@ fields:
     display_utc: false
   label: Publishing date
 pages:
+- content/avonturen/advies-vragen-aan-ouwe-gele.md
 - content/avonturen/een-onverwacht-telefoontje.md
 - content/avonturen/proloog.md
