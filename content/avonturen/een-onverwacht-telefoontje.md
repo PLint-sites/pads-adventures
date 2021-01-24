@@ -4,7 +4,7 @@ description: Pad en pad zijn op het strand en vermaken zich prima. Lekker zonnen
   een beetje surfen, heerlijk!
 afbeelding_voor_listpage: "/images/1-pad-en-pad-op-het-strand-background-3a.jpg"
 published: true
-publishing_date: 2021-01-20T17:00:00Z
+publishing_date: 2021-01-20T17:00:00.000+00:00
 
 ---
 # Een onverwacht telefoontje
@@ -45,12 +45,8 @@ Pad blauw schrikt zich een hoedje als hij ziet wat er op het scherm verschijnt. 
 
 'We moeten hem te hulp komen', zegt pad geel. Maar hoe dat dan moet weet hij niet.
 
-Pad blauw bedenkt zich ineens. Misschien kunnen ze Jeh opbellen en hem vertellen dat het heel slecht gaat met pad.
+Pad blauw bedenkt zich ineens. Misschien kunnen ze Jeh opbellen en hem vertellen dat het heel slecht gaat met pad. Maar helaas, de telefoon doet verder niks. Ze kunnen er niet mee bellen.
 
-Maar helaas, de telefoon doet verder niks. Ze kunnen er niet mee bellen.
-
-'Maar we moeten wat doen!', roept pad geel uit. En hij begint als een gek zijn spullen bij elkaar te zoeken.
-
-'Kom pad blauw, we moeten snel naar huis om een plan te maken. We kunnen pad niet aan zijn lot over laten, toch?!'
+'Maar we moeten wat doen!', roept pad geel uit. En hij begint als een gek zijn spullen bij elkaar te zoeken. 'Kom pad blauw, we moeten snel naar huis om een plan te maken. We kunnen pad niet aan zijn lot over laten, toch?!'
 
 Pad blauw is het daar helemaal mee eens. Ze gaan er snel van door.
