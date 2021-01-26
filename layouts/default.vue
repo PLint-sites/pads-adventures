@@ -3,7 +3,7 @@
     <v-app-bar :clipped-left="clipped" fixed app>
       <v-toolbar-title v-text="title" />
       <v-spacer />
-      <v-btn color="primary" nuxt :to="`/`">Home</v-btn>
+      <v-btn v-if="!isHome" color="primary" nuxt :to="`/`">Home</v-btn>
     </v-app-bar>
     <v-main>
       <v-container>
@@ -28,6 +28,7 @@ export default {
       right: true,
       rightDrawer: false,
       title: 'Avonturen van Pad',
+      isHome: this.$route.path === '/'
     }
   },
   computed: {
@@ -35,5 +36,14 @@ export default {
       items: 'toc',
     }),
   },
+  watch: {
+    $route(to, from) {
+      if (to.path === '/') {
+        this.isHome = true
+      } else {
+        this.isHome = false
+      }
+    }
+  }
 }
 </script>

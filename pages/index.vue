@@ -3,28 +3,29 @@
     <div class="grid-item" v-for="(article, index) of articles" :key="index" :style="background(article.afbeelding_voor_listpage)">
       <NuxtLink class="link-to-chapter" :to="`/${article.slug}`">
         <div class="green lighten-1 text-center">
-          <h3 class="white--text">{{article.title}}</h3>
+          <h3 class="white--text">{{article.title}}</h3>          
         </div>
+        <p v-if="articleIsNew(article)" class="red lighten-1 white--text">Nieuw</p>
       </NuxtLink>
     </div>
-    <template v-if="articles.length < 4">
-      <div class="grid-item coming-soon" v-for="index in (4-articles.length)" :key="`${index}_1`">Coming soon</div>
-    </template>
   </div>
 </template>
 
 <script>
+import dayjs from 'dayjs'
 export default {
   async asyncData({ $content, store, params, error }) {
     const slug = params.slug || 'index'
     let articles = await $content('avonturen')
-      .sortBy('publishing_date')
+      .sortBy('publishing_date', 'desc')
       .fetch()
       .catch((err) => {
         error({ statusCode: 404, message: 'Article not found' })
       })
-    
-    articles = articles.filter(item => item.published)
+    // make sure that locally we can see unpublished adventures
+    if (!process.env.local) {
+      articles = articles.filter(item => item.published)
+    }
     store.commit('setTocFromArticles', articles)
     return {
       articles,
@@ -37,6 +38,13 @@ export default {
         backgroundSize: 'cover'
       }
     },
+    articleIsNew(article) {
+      const difference = (dayjs().unix() - dayjs(article.publishing_date).unix())/86400
+      if (difference < 1) {
+        return true
+      }
+      return false
+    }
   },
 }
 </script>
@@ -52,6 +60,7 @@ export default {
   width: 100%;
   height: 250px;
   border: 5px solid #1B5E20;
+  position: relative;
 }
 
 #grid .grid-item .link-to-chapter {
@@ -61,8 +70,12 @@ export default {
   padding: 10px;
 }
 
-.grid-item.coming-soon {
-  border: 2px dashed #1B5E20;
-  padding: 10px;
+.grid-item p.red {
+  position: absolute;
+  bottom: -10px;
+  right: 10px;
+  display: inline;
+  padding: 3px 8px;
+  /*transform:rotateZ(-45deg);*/
 }
 </style>

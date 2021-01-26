@@ -66,6 +66,7 @@ export default {
 </script>
 <style>
 .nuxt-content h1 {
+  line-height: 30px;
   margin-bottom: 20px;
 }
 
