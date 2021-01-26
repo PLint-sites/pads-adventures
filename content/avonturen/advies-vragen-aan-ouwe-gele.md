@@ -7,6 +7,8 @@ published: false
 publishing_date: 2021-01-26T23:00:00Z
 
 ---
+# Advies vragen aan ouwe gele
+
 De padden gaan op weg naar huis om een plan te maken om pad blauw te redden. De strandstoeltjes en de surfplank zijn ingeleverd bij de verhuur en ze lopen het strand af.
 
 Wie de padden een beetje kent weet dat lopen niet zo heel soepel gaat. Een pad heeft immers behoorlijk korte beentjes. Eigenlijk kun je niet eens van benen spreken. Het zijn meer pootjes. Daarom beweegt een pad zich voornamelijk voort op zijn kont. Hij hupst dan een beetje. Erg snel gaat dat niet.
