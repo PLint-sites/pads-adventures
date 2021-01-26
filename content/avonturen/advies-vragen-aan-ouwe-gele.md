@@ -2,9 +2,9 @@
 title: Advies vragen aan ouwe gele
 description: 'De padden verlaten het strand per kameel. Ze weten niet wat ze moeten
   doen om pad blauw te helpen en besluiten om raad te gaan vragen aan Ouwe Gele. '
-afbeelding_voor_listpage: ''
+afbeelding_voor_listpage: "/images/0-proloog-a-2.jpg"
 published: false
-publishing_date: 2021-01-22T23:00:00Z
+publishing_date: 2021-01-26T23:00:00Z
 
 ---
 De padden gaan op weg naar huis om een plan te maken om pad blauw te redden. De strandstoeltjes en de surfplank zijn ingeleverd bij de verhuur en ze lopen het strand af.
