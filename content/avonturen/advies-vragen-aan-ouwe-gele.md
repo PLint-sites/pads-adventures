@@ -47,6 +47,6 @@ Dan weet hij het weer. Toen hij net bij Pee was ingetrokken was er inderdaad ook
 
 'En waar zijn jullie naar op zoek, als ik vragen mag? Ik ben Winnie de Pooh en ik woon al heel lang in dit grote Berenbos.' Hij neemt nog een pootje honing. De padden kijken elkaar aan. Er zit ook nog wat honing aan de snoet van pad geel en zelfs een klodder aan zijn hoed. Tja, dat komt er nou van denkt pad blauw bij zichzelf. 'We zoeken de ouwe gele', zegt pad blauw tenslotte. 'Nou dat treft, die ken ik ook', zegt Pooh. Dan wijst hij hun de weg door het bos. 'Je zult de kamelen wel achter moeten laten, die komen niet tussen de bomen door. Maar wees gerust, het is niet ver.'
 
-De padden hupsen op hun kont het bospad op en inderdaad, echt ver is het niet. 
+De padden hupsen op hun kont het bospad op en inderdaad, echt ver is het niet. Al snel zien ze de contouren van de open plek. 'We zijn er bijna', roept pad blauw naar pad geel. Het laatste stuk moeten ze zich tussen bomen en struiken door wringen, maar dan staan ze aan de rand. Voor zich zien ze de prachtige tuin met een enorme diversiteit aan planten, paddestoelen en kruiden. Het ruikt er ook heerlijk en overal zien ze bijen en vlinders.
 
-De aanwijzingen van Pooh brengen hen snel naar de open plek waar de ouwe gele in zijn tuin aan het werk is.
+Net als ze over het paadje door de tuin lopen, worden ze opgemerkt door de ouwe gele, die aan het werk is bij een gigantische paddestoel.
