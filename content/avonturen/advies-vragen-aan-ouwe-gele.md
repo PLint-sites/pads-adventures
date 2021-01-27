@@ -4,7 +4,7 @@ description: 'De padden verlaten het strand per kameel. Ze weten niet wat ze moe
   doen om pad blauw te helpen en besluiten om raad te gaan vragen aan Ouwe Gele. '
 afbeelding_voor_listpage: "/images/0-proloog-a-2.jpg"
 published: false
-publishing_date: 2021-01-26T23:00:00Z
+publishing_date: 2021-01-26T23:00:00.000+00:00
 
 ---
 # Advies vragen aan ouwe gele
@@ -21,13 +21,13 @@ Pad blauw slaakt een zucht en denkt dat zal ook altijd weer die gele overkomen. 
 
 ![](/images/2-pad-achterste-voren-a.jpg)
 
-Gelukkig is de man van de verhuur er nu nog bij en uiteindelijk zit ook pad geel recht op zijn kameel en kunnen ze de tocht vervolgen. Het eerste stuk gaat over het strand. Daarna een heel stuk door de duinen en woestijn die daarachter ligt. De padden hebben vanaf hun hoge zitplaats een prachtig uitzicht over het landschap. Aan de ene kant zien ze nog de zee. De golven op de zee kunnen ze ook nog steeds horen. Aan de andere is er niets anders dan zand, duinen en nog meer zand.
+Gelukkig is de man van de verhuur er nu nog bij en uiteindelijk zit ook pad geel recht op zijn kameel en kunnen ze aan de tocht beginnen. Het eerste stuk gaat over het strand. Daarna een heel stuk door de duinen en woestijn die daarachter ligt. De padden hebben vanaf hun hoge zitplaats een prachtig uitzicht over het landschap. Aan de ene kant zien ze nog de zee. De golven op de zee kunnen ze ook nog steeds horen. Aan de andere is er niets anders dan zand, duinen en nog meer zand.
 
 ![](/images/3-kamelen-karavaan-a.jpg)
 
 Ineens krijgt pad blauw een idee. Ze moeten helemaal niet naar huis om een plan te maken. Ze kunnen beter naar het Berenbos gaan om advies te vragen aan de ouwe gele. Hij legt het gewijzigde plan voor aan pad geel. Die vindt het allang best, hij is blij dat hij zit en beweegt zich nauwelijks, bang om nog een keer van de kameel te vallen.
 
-De ouwe gele is ook een pad. Een behoorlijk grote pad ook. Met een gele hoed, vandaar zijn naam. Deze heeft vroeger lange tijd bij Pee gewoond, maar voelde zich altijd een beetje achtergesteld. Ondanks dat Pee een eigen pad had, was hij toch nog steeds jaloers op de kleine pad blauw van Jeh. Misschien komt het omdat zijn eigen pad glazen ogen had, en een hoed van een andere stof. Zijn vacht was ook wat ruiger. Niet zo'n zachte pad als pad blauw was.
+De ouwe gele is ook een pad. Een behoorlijk grote pad ook. Met een gele hoed, vandaar zijn naam. Hij heeft vroeger lange tijd bij Pee gewoond, maar voelde zich altijd een beetje achtergesteld. Ondanks dat Pee een eigen pad had, was hij toch nog steeds jaloers op de kleine pad blauw van Jeh. Misschien komt het omdat zijn eigen pad glazen ogen had, en een hoed van een andere stof. Zijn vacht was ook wat ruiger. Niet zo'n zachte pad als pad blauw was.
 
 De ouwe gele is er toen, jaren geleden alweer, vandoor gegaan. Hij vond het niet meer leuk en wilde ook niet alleen maar binnen zitten en in bed liggen. Hij werd een soort kluizenaar. Diep in het Berenbos had hij op een grote open plek een hutje gevonden om in te wonen en daar zat hij nog altijd. De open plek was inmiddels onder handen genomen en getransformeerd in een fantastische tuin. Hij verbouwde er ook kruiden.
 
@@ -47,6 +47,6 @@ Dan weet hij het weer. Toen hij net bij Pee was ingetrokken was er inderdaad ook
 
 'En waar zijn jullie naar op zoek, als ik vragen mag? Ik ben Winnie de Pooh en ik woon al heel lang in dit grote Berenbos.' Hij neemt nog een pootje honing. De padden kijken elkaar aan. Er zit ook nog wat honing aan de snoet van pad geel en zelfs een klodder aan zijn hoed. Tja, dat komt er nou van denkt pad blauw bij zichzelf. 'We zoeken de ouwe gele', zegt pad blauw tenslotte. 'Nou dat treft, die ken ik ook', zegt Pooh. Dan wijst hij hun de weg door het bos. 'Je zult de kamelen wel achter moeten laten, die komen niet tussen de bomen door. Maar wees gerust, het is niet ver.'
 
-De padden hupsen op hun kont het bospad op en inderdaad, echt ver is het niet. De aanwijzingen van Pooh brengen hun snel naar de open plek waar de ouwe gele in zijn tuin aan het werk is.
+De padden hupsen op hun kont het bospad op en inderdaad, echt ver is het niet. De aanwijzingen van Pooh brengen hen snel naar de open plek waar de ouwe gele in zijn tuin aan het werk is.
 
 ![](/images/6-pad-en-pad-ouwe-gele-a.jpg)
