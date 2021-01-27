@@ -12,3 +12,5 @@ publishing_date: 2021-02-02T23:00:00Z
 * Ouwe gele kent pad blauw ook nog en wil natuurlijk helpen.
 * Hij denkt dat pad blauw het wel koud zou hebben. Daar heeft hij wel wat voor: pas is vroeger een keertje op bezoek geweest, maar heeft toen zijn jas laten liggen.
 * Daarnaast hebben ze vulsel nodig voor pad blauw om zijn lijf op te vullen, een beetje hetzelfde als wat ouwe gele zelf in zijn hoed heeft. Hij kan het de padden laten zien.
+* Maar ook ouwe gele weet niet waar je vulsel vinden kunt. Misschien kunnen de padden thuis zelf op onderzoek gaan.
+* Als het niet lukt kunnen ze altijd nog naar de berenraad gaan, maar dat is een hoop gedoe.
