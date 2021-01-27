@@ -3,7 +3,7 @@ import colors from 'vuetify/es5/util/colors'
 export default {
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    titleTemplate: '%s - Writings',
+    titleTemplate: '%s - Avonturen van Pad',
     title: 'Inhoudsopgave',
     meta: [
       { charset: 'utf-8' },
