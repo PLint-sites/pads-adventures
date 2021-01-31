@@ -29,7 +29,7 @@ Pad blauw is een hele tijd geleden op bezoek geweest bij de ouwe gele, om te zie
 
 De ouwe gele denkt ondertussen nog even na. 'Maar alleen met die jas gaat pad blauw het niet redden. Kijk maar, hij heeft veel te weinig vulling.'
 
-'Ja dat zie ik ook,' zegt pad blauw en pad geel beaamt dat 'het is echt een dunne pad. Als ik op hem ga zitten dan lijkt het net alsof ik op de grond zit, zo dun is hij!'
+'Ja dat zie ik ook,' zegt pad blauw en pad geel beaamt dat: 'het is echt een dunne pad. Als ik op hem ga zitten dan lijkt het net alsof ik op de grond zit, zo dun is hij!'
 
 De ouwe gele schudt zijn hoofd. 'Je gaat toch niet op een andere pad zitten. Zal ik dat eens bij jou doen?' dreigt hij en pad geel klimt verschrikt onder de tafel.
 
