@@ -39,7 +39,7 @@ De ouwe gele schudt zijn hoofd. 'Je gaat toch niet op een andere pad zitten. Zal
 
 En hij wijst naar een portretje aan de muur. Inderdaad, de hoed van ouwe gele is helemaal ingedeukt, een pad onwaardig.
 
-'En hoe heb je dat dan opgelost?' vraagt pad blauw. Pad geel is ondertussen onder de tafel uitgeklommen. De ouwe gele maakt geen aanstalten om op hem te gaan zitten en hij concludeert dus dat een grapje was.
+'En hoe heb je dat dan opgelost?' vraagt pad blauw. Pad geel is ondertussen onder de tafel uitgeklommen. De ouwe gele maakt geen aanstalten om op hem te gaan zitten en hij concludeert dus dat het een grapje was.
 
 'Pee heeft mijn hoed gevuld en toen was het weer goed,' zegt ouwe gele. 'Kijk maar eens goed, ik had zoveel vulling gekregen dat het soms een beetje onder mijn hoed uitkomt!'
 
