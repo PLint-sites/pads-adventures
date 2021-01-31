@@ -44,3 +44,13 @@ De ouwe gele schudt zijn hoofd. 'Je gaat toch niet op een andere pad zitten. Zal
 'Hé, ik heb een idee,' zegt ouwe gele dan. 'Ik heb dat probleem ooit ook gehad met mijn hoed. Daar zat toen geen vulling meer in. Kijk daar maar, ik heb er nog een foto van.'
 
 ![](/images/plathoed-a.jpg)
+
+En hij wijst naar een portretje aan de muur. Inderdaad, de hoed van ouwe gele is helemaal ingedeukt, een pad onwaardig. 
+
+'En hoe heb je dat dan opgelost?' vraagt pad blauw. Pad geel is ondertussen onder de tafel uitgeklommen. De ouwe gele maakt geen aanstalten om op hem te gaan zitten en hij concludeert dus dat een grapje was.
+
+'Pee heeft mijn hoed gevuld en toen was het weer goed,' zegt ouwe gele. 'Kijk maar eens goed, ik had zoveel vulling gekregen dat het soms een beetje onder mijn hoed uitkomt!'
+
+![](/images/pad-vulwol-a.jpg)
+
+'Ik denk dat jullie op zoek moeten naar vulling voor pad blauw, alleen dat kan hem redden.'
