@@ -25,7 +25,7 @@ Pad blauw is een hele tijd geleden op bezoek geweest bij de ouwe gele, om te zie
 
 'En ik denk dus, dat pad blauw het behoorlijk koud zal hebben zonder zijn jas. Misschien kunnen jullie die voor hem meenemen?'
 
-'Ja, natuurlijk doen we dat,' zegt pad blauw. Pad geel pakt de jas aan en probeert hem aan te trekken. Maar dat gaat natuurlijk niet omdat hij zijn eigen jas al aan heeft. Pad blauw ziet het en schudt zijn hoofd. 'Eén jas tegelijk aan pad geel, anders scheur je er nog uit'.
+'Ja, natuurlijk doen we dat,' zegt pad blauw. Pad geel pakt de jas aan en probeert hem aan te trekken. Maar dat gaat natuurlijk niet omdat hij zijn eigen jas al aan heeft. Pad blauw ziet het en schudt zijn hoofd. 'Eén jas tegelijk, pad geel, anders scheur je er nog uit'.
 
 De ouwe gele denkt ondertussen nog even na. 'Maar alleen met die jas gaat pad blauw het niet redden. Kijk maar, hij heeft veel te weinig vulling.'
 
