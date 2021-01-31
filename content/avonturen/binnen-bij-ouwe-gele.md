@@ -54,3 +54,13 @@ En hij wijst naar een portretje aan de muur. Inderdaad, de hoed van ouwe gele is
 ![](/images/pad-vulwol-a.jpg)
 
 'Ik denk dat jullie op zoek moeten naar vulling voor pad blauw, alleen dat kan hem redden.'
+
+De padden vinden het wel logisch klinken, maar de grote vraag is wat voor vulling ze nodig hebben voor pad blauw. De ouwe gele geeft ze nog wel advies voordat ze afscheid nemen. 'Misschien kun je het proberen met gekookte rijst? Of anders wat zaagsel, dat is ook lekker zacht.'
+
+'Waarom niet met vulling zoals jouw hoed?' vraagt pad blauw.
+
+De ouwe gele schudt zijn hoofd. 'Nee dit is kussenvulling geloof ik, dat is veel te grof voor die kleine pad.'
+
+De padden danken de ouwe gele hartelijk voor zijn hulp en nemen de rode paddenjas mee. Ze hebben nu een plan en gaan terug naar huis om op zoek te gaan naar vulling voor pad blauw. Hopelijk vinden ze iets goeds.
+
+De ouwe gele zwaait ze uit en roept ze nog na: 'Als het niet lukt, kun je altijd een keertje terug komen. Ik kan de berenraad wel bijeen roepen, die weten vast wel wat voor vulling je nodig hebt!'
