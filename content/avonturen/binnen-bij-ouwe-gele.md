@@ -9,9 +9,9 @@ publishing_date: 2021-02-02T23:00:00Z
 ---
 # Binnen bij ouwe gele
 
-De padden knabbelen lekker van hun wortel en omringd door zoveel schoonheid en heerlijke geuren in de tuin, vergeten ze bijna waarom ze hier zijn. Pad blauw verslikt zich en begint te hoesten. Gelukkig klopt pad geel hem op zijn rug. 
+De padden knabbelen lekker van hun wortel en omringd door zoveel schoonheid en heerlijke geuren in de tuin, vergeten ze bijna waarom ze hier zijn. Pad blauw verslikt zich en begint te hoesten. Gelukkig klopt pad geel hem op zijn rug.
 
-'Ouwe gele', begint pad blauw, 'we hebben je hulp nodig. Het gaat helemaal niet goed met oude pad blauw van Jeh.' En in een stortvloed van beelden komt het verhaal eruit. Ze hadden lekker op het strand gelegen en vonden tijdens het zwemmen een telefoon met daarop de foto van pad blauw. Vervolgens de haastige aftocht per kameel van het strand, de tocht door de woestijn en de ontmoeting met Pooh. De ouwe gele staat erbij en luistert.
+'Ouwe gele', begint pad blauw, 'we hebben je hulp nodig. Het gaat helemaal niet goed met oude pad blauw van Jeh.' En in een stortvloed van woorden komt het verhaal eruit. Ze hadden lekker op het strand gelegen en vonden tijdens het zwemmen een telefoon met daarop de foto van pad blauw. Vervolgens de haastige aftocht per kameel van het strand, de tocht door de woestijn en de ontmoeting met Pooh. De ouwe gele staat erbij en luistert.
 
 ![](/images/pad-en-pad-ouwe-gele-a.jpg)
 
@@ -37,7 +37,7 @@ De ouwe gele schudt zijn hoofd. 'Je gaat toch niet op een andere pad zitten. Zal
 
 ![](/images/plathoed-a.jpg)
 
-En hij wijst naar een portretje aan de muur. Inderdaad, de hoed van ouwe gele is helemaal ingedeukt, een pad onwaardig. 
+En hij wijst naar een portretje aan de muur. Inderdaad, de hoed van ouwe gele is helemaal ingedeukt, een pad onwaardig.
 
 'En hoe heb je dat dan opgelost?' vraagt pad blauw. Pad geel is ondertussen onder de tafel uitgeklommen. De ouwe gele maakt geen aanstalten om op hem te gaan zitten en hij concludeert dus dat een grapje was.
 
