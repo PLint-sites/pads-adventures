@@ -33,7 +33,7 @@ De ouwe gele denkt ondertussen nog even na. 'Maar alleen met die jas gaat pad bl
 
 De ouwe gele schudt zijn hoofd. 'Je gaat toch niet op een andere pad zitten. Zal ik dat eens bij jou doen?' dreigt hij en pad geel klimt verschrikt onder de tafel.
 
-'Hé, ik heb een idee,' zegt ouwe gele dan. 'Ik heb dat probleem ooit ook gehad met mijn hoed. Daar zat toen geen vulling meer in. Kijk daar maar, ik heb er nog een foto van.'
+'Hé, ik heb een idee,' zegt ouwe gele dan. 'Ik heb dat probleem ook ooit gehad met mijn hoed. Daar zat toen geen vulling meer in. Kijk daar maar, ik heb er nog een foto van.'
 
 ![](/images/plathoed-a.jpg)
 
