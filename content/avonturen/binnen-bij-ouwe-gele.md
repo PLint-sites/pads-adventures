@@ -1,5 +1,5 @@
 ---
-title: Binnen bij ouwe gele
+title: 3. Binnen bij ouwe gele
 description: De padden worden binnen uitgenodigd bij de ouwe gele. Hier doen ze hun
   verhaal. Komt de ouwe gele hen te hulp?
 afbeelding_voor_listpage: "/images/listpage.jpg"
