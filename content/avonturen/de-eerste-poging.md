@@ -7,13 +7,6 @@ published: false
 publishing_date: 2021-02-09T23:00:00Z
 
 ---
-1. De rode jas is bij pad blauw gearriveerd via de paddenpost: pad geel heeft het jasje stiekem in Pee zijn rugzak gestopt. Pee ging Jeh opzoeken.
-2. Pad blauw is heel blij met zijn jas, zo kan hij zijn scheur een beetje bedekken.
-3. De padden komen inmiddels thuis aan. Daar gaan ze op zoek naar vulling voor pad blauw.
-4. Allereerst gaan ze eens kijken wat ze kunnen met rijst. Dus vragen ze aan Pee om rijst te koken. Maar het blijkt dat rijst niet zo geschikt is: het plakt teveel en is erg heet.
-5. Dan begint het te sneeuwen en de padden denken dat een hoopje sneeuw misschien zou kunnen helpen: dat ziet er lekker zacht uit. Maar wat blijkt, de sneeuw verdwijnt en is bovendien heel koud.
-6. Uiteindelijk roept de cavia. Ze hebben wat moeite om de cavia te verstaan, maar die denkt aan zaagsel: dat is lekker zacht en daar liggen ze zelf altijd op. Maar dan zullen ze wel eerst wat groente voor de cavia moeten regelen, want niks gaat voor niks.
-
 # De eerste poging
 
 Na het bezoek bij de ouwe gele gaan de padden op weg naar huis. Daar kunnen ze dan beginnen met de zoektocht naar vulling voor pad blauw. 
