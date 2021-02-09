@@ -2,7 +2,7 @@
 title: 4. De eerste poging
 description: Onze padden gaan naar huis om te beginnen met hun zoektocht naar vulling
   voor pad blauw
-afbeelding_voor_listpage: ''
+afbeelding_voor_listpage: "/images/3-rijstpan-b.jpg"
 published: false
 publishing_date: 2021-02-09T23:00:00.000+00:00
 
@@ -27,7 +27,7 @@ Dan gebeurt er iets wonderlijks. Pad ziet ineens zijn rode paddenjas in Jeh's ha
 
 In Sittard zijn de padden begonnen aan de zoektocht naar vulling. Er is wel rijst in huis, maar dat is vrij hard spul. Na een kort overleg besluiten ze dat dat zo niet gaat. De rijst moet gekookt worden. Dat blijkt een hachelijke onderneming te zijn. De waterkoker is ontzettend groot en lomp en uiteraard niet geschikt voor padden pootjes. Als het water kookt is er een volgend probleem: het water moet in de pan, maar het is te zwaar. Uiteindelijk bedenken de padden samen een goed plan. Ze schenken het water vanaf het aanrecht in een boog naar beneden, waar ze eerder een pan hebben neergezet. Daarna takelen ze de pan water weer omhoog en zetten hem op het vuur. Dan is het wachten. De rijst moet vijftien minuten koken. Het lijkt wel uren te duren, maar uiteindelijk is het klaar.
 
-De padden vinden de overwanten en pad geel denkt dat hij zijn hoofd in de opening moet stoppen. 'Zo lukt dat niet pad geel, kom er nou eens uit,' roept pad blauw. 'Als we allebei een handvat van de pan nemen moet het wel lukken.' En zo gezegd, zo gedaan. Even later is de rijst afgegoten en kunnen de padden kijken of ze er wat mee kunnen. Ze gluren over de rand van de pan.
+De padden vinden de ovenwanten en pad geel denkt dat hij zijn hoofd in de opening moet stoppen. 'Zo lukt dat niet pad geel, kom er nou eens uit,' roept pad blauw. 'Als we allebei een handvat van de pan nemen moet het wel lukken.' En zo gezegd, zo gedaan. Even later is de rijst afgegoten. Ze gluren over de rand van de pan.
 
 ![](/images/3-rijstpan-b.jpg)
 
