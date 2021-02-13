@@ -33,6 +33,7 @@ fields:
     display_utc: false
   label: Publishing date
 pages:
+- content/avonturen/5.hulp-uit-onverwachte-hoek.md
 - content/avonturen/advies-vragen-aan-ouwe-gele.md
 - content/avonturen/binnen-bij-ouwe-gele.md
 - content/avonturen/een-onverwacht-telefoontje.md
