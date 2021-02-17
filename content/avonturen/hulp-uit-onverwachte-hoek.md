@@ -1,11 +1,10 @@
 ---
 title: 5. Hulp uit onverwachte hoek
-description: De padden komen in contact met Baerke en Mimi, die ze voor het gemak
-  Piep en Brom noemen. De cavia's leven op zaagsel en vinden het heerlijk zacht, zou
+description: De padden komen in contact met Baerke en Mimi. De cavia's leven op zaagsel en vinden het heerlijk zacht, zou
   dat de oplossing zijn?
 afbeelding_voor_listpage: "/images/5-4-pad-en-pad-op-cavia-a.jpg"
-published: false
-publishing_date: 2021-02-16T23:00:00Z
+published: true
+publishing_date: 2021-02-17T09:07:12Z
 
 ---
 # Hulp uit onverwachte hoek
