@@ -76,6 +76,5 @@ export default {
   right: 10px;
   display: inline;
   padding: 3px 8px;
-  /*transform:rotateZ(-45deg);*/
 }
 </style>

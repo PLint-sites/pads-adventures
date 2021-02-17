@@ -72,5 +72,10 @@ export default {
 
 .nuxt-content img {
   width: 100%;
+  margin-left: -20px;
+}
+
+.nuxt-content p {
+  text-indent: 20px;
 }
 </style>
