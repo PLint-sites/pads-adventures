@@ -75,7 +75,7 @@ export default {
   margin-left: -20px;
 }
 
-.nuxt-content p {
+.nuxt-content p:nth-child(n+3) {
   text-indent: 20px;
 }
 </style>
