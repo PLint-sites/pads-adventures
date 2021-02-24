@@ -1,9 +1,9 @@
 ---
 title: 6. De berenraad
 description: De ouwe gele roept de berenraad bijeen. Een grote groep wijze en oudere beren komen bij elkaar om het probleem van de padden van een oplossing te voorzien.
-afbeelding_voor_listpage: "/images/5-4-pad-en-pad-op-cavia-a.jpg"
-published: false
-publishing_date: 2021-02-21T11:05:12Z
+afbeelding_voor_listpage: "/images/week6-berenraad-a.jpg"
+published: true
+publishing_date: 2021-02-24T08:13:12Z
 
 ---
 # De berenraad
@@ -22,17 +22,25 @@ Pad geel heeft zijn mond vol en kan dus niet antwoorden. In plaats daarvan geeft
 
 'Iedereen die kan komen komt,' zegt de ouwe gele. 'Een berenraad komt niet zo vaak voor en dat wil je niet missen. Bovendien is het voor je eigen bestwil. Het kan gevaarlijk zijn om er niet te zijn. Vroeger hebben we eens een groot gevaar besproken, maar toen waren de dieren uit het oosten er niet. Daar is toen een flink stuk bos gekapt en die arme dieren zijn volgens mij niet op tijd gevlucht. Met alle gevolgen van dien. Ik ga dus altijd.'
 
+![](/images/week6-berenraad-a.jpg)
+
 De optocht van bosdieren is inmiddels flink gegroeid nu ze in de buurt komen van de grote open plek. Niet alle dieren komen over de grond; in de bomen horen ze steeds geritsel. Pad geel staat soms even stil om te proberen een glimp op te vangen, maar door de bladeren kan hij niks zien. 'Wat gebeurt daarboven?' vraagt hij.
 
 'Rustig maar, pad geel, niks om bang voor te zijn. Dat zijn de eekhoorns maar, die komen ook naar de berenraad.' De ouwe gele is nog niet uitgesproken als ze de open plek in het bos bereiken. Aan alle kanten komen er meer dieren naar de open plek toe en er zitten ook al een heleboel dieren op de grond te wachten. Op een reusachtige omgevallen boom zit een hele oude beer met een bril op. 'Dat is de voorzitter van de berenraad,' wijst de ouwe gele. Naast de oude beer zitten nog een aantal raadsleden. 'Wij moeten vooraan gaan zitten, jullie krijgen zo het woord om de raad toe te spreken.' Pad geel schrikt zich een hoedje als hij de grote menigte overziet en bedenkt dat hij iets moet zeggen. Gelukkig komt pad blauw hem te hulp. 'Ik doe het wel, pad geel.'
+
+![](/images/week6-opperbeer-a.jpg)
 
 De voorzitter van de raad schraapt zijn keel en zijn buurman slaat op de gong die aan een touwtje aan een opstaande tak van de boom hangt. Het geroezemoes van de menigte verstomt onmiddellijk. 'We zijn hier bijeen omdat de ouwe gele de berenraad heeft opgeroepen. Kom maar naar voren ouwe gele.'
 
 De ouwe gele staat op en duwt de padden voor zich uit. Pad geel vindt het nog steeds erg spannend, maar pad blauw is bij hem dus durft hij toch. Als ze voor de omgevallen boom staan en de voorzitter de reden van de oproep tot de berenraad vraagt, kijkt de ouwe gele naar pad blauw. 'Vertel jij het maar.'
 
+![](/images/week6-pandas-a.jpg)
+
 Pad blauw steekt van wal. Hij vertelt het verhaal en er gaat een zucht door het publiek als ze horen hoe slecht het gesteld is met de arme pad blauw. 'We hebben alles al geprobeerd,' besluit pad blauw zijn verhaal. 'Rijst, sneeuw en zelfs zaagsel, maar niets helpt. We zijn ten einde raad.' De voorzitter kijkt zijn raad eens aan en wil net iets zeggen als er commotie is aan de rand van de open plek. Twee grote panda's komen tevoorschijn uit het bos. Luidruchtig kauwend op takken bamboe banen ze zich een weg door het publiek. 'Sorry dat we zo laat zijn we hadden de gong niet gehoord de eerste keer,' verontschuldigt de grootste zich. 'Kunnen we nog helpen?'
 
 'Dat hangt er vanaf,' zegt de voorzitter. 'We wilden eigenlijk net in conclaaf gaan om het probleem dat hier geschetst is te bespreken. Kom er maar bij zitten, jullie input is altijd waardevol.' Snel brengt hij de panda's op de hoogte van de zoektocht naar vulling voor pad. Dan gaat de raad in conclaaf. Na een poosje komen ze terug en de voorzitter lacht de padden bemoedigend toe. 'Ik denk dat we wel een oplossing voor jullie probleem hebben gevonden,' vertrouwt hij ze alvast toe.
+
+![](/images/week6-egel-en-eekhoorn-a.jpg)
 
 Dan verschijnen er een eekhoorn en een egel. De voorzitter wijst ze aan. 'Kijk, zowel Epi eekhoorn als Ranza de rasta-egel zijn gevuld. We hebben rondgevraagd in de raad en het blijkt dat een groot deel van de bosdieren op dezelfde manier is gevuld. Dat weten we van de oudste panda. Die heeft namelijk een gat in zijn zij. Eigenlijk net zoals pad blauw dat heeft, van ouderdom. Je kunt het hier zien. Dat is de vulling die jullie nodig hebben. Het heet *vulwol*.' De ouwe gele kijkt de padden aan bij dit nieuws. 'Dus we moeten op zoek naar vulwol. Maar waar vinden we dat dan?' De voorzitter had deze vraag al verwacht. 'Daar kom ik zo op. Belangrijker is dat het *zuivere vulwol* moet zijn. Als de vulwol niet zuiver is dan kan pad blauw er heel ziek van worden. En ik denk niet dat hij dat in zijn huidige conditie aan kan.'
 

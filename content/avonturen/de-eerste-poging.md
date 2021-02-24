@@ -13,7 +13,7 @@ Na het bezoek bij de ouwe gele gaan de padden op weg naar huis. Daar kunnen ze d
 
 Thuis aangekomen hebben ze eerst nog wat anders te doen. De rode jas van pad moet opgestuurd worden. Dat doen ze met de paddenpost: stiekem stopt pad geel de jas in de tas van Pee. Ze hebben namelijk vernomen dat die op bezoek gaat bij Jeh en zo kan de jas de grote afstand overbruggen.
 
-![](/images/pad/1-pad-in-tas.jpg)
+![](/images/1-pad-in-tas.jpg)
 
 ### Ondertussen in Utrecht
 
@@ -23,13 +23,13 @@ Dan gaat de bel. Pad schrikt wakker uit een fijne droom waarin hij weer helemaal
 
 Dan gebeurt er iets wonderlijks. Pad ziet ineens zijn rode paddenjas in Jeh's hand. 'Is dat mijn jas, Jeh?' vraagt pad, en Jeh beaamt dat en doet de jas aan. Pad heeft het snel weer lekker warm en durft nu ook weer onder de dekens uit te komen. Hij gaat zelfs even mee naar beneden waar Pee en Jeh gezellig zitten te kletsen en een kopje thee drinken.
 
-![](/images/pad/2-pad-met-jas.jpg)
+![](/images/2-pad-met-jas.jpg)
 
 In Sittard zijn de padden begonnen aan de zoektocht naar vulling. Er is wel rijst in huis, maar dat is vrij hard spul. Na een kort overleg besluiten ze dat dat zo niet gaat. De rijst moet gekookt worden. Dat blijkt een hachelijke onderneming te zijn. De waterkoker is ontzettend groot en lomp en uiteraard niet geschikt voor padden pootjes. Als het water kookt is er een volgend probleem: het water moet in de pan, maar het is te zwaar. Uiteindelijk bedenken de padden samen een goed plan. Ze schenken het water vanaf het aanrecht in een boog naar beneden, waar ze eerder een pan hebben neergezet. Daarna takelen ze de pan water weer omhoog en zetten hem op het vuur. Dan is het wachten. De rijst moet vijftien minuten koken. Het lijkt wel uren te duren, maar uiteindelijk is het klaar.
 
 De padden vinden de ovenwanten en pad geel denkt dat hij zijn hoofd in de opening moet stoppen. 'Zo lukt dat niet pad geel, kom er nou eens uit,' roept pad blauw. 'Als we allebei een handvat van de pan nemen moet het wel lukken.' En zo gezegd, zo gedaan. Even later is de rijst afgegoten. Ze gluren over de rand van de pan.
 
-![](/images/pad/3-rijstpan-b.jpg)
+![](/images/3-rijstpan-b.jpg)
 
 En ja hoor, zowel pad geel als pad blauw verliest zijn evenwicht en duikelt met het hoofd naar voren in de pan met rijst. En dat plakt. Ze klimmen uit de pan en spoelen zich even af. Maar de conclusie is duidelijk: dit gaat niet werken zo. De rijst is veel te plakkerig. 'Die ouwe gele ook met zijn ideeën,' moppert pad geel.
 
@@ -39,7 +39,7 @@ Buiten is het inmiddels donker geworden en de padden zijn moe van de hele rijst 
 
 Ze gaan naar buiten om te kijken en halen handen vol met sneeuw naar binnen. Ze leggen de sneeuw in een schaaltje. Al snel is het eerste schaaltje vol. De sneeuw is inderdaad heel zacht, maar ook een beetje koud.
 
-![](/images/pad/4-pad-en-pad-in-de-sneeuw-a.jpg)
+![](/images/4-pad-en-pad-in-de-sneeuw-a.jpg)
 
 Een half uur later is de sneeuw echter gesmolten. Er staat in beide bakjes alleen nog maar een laagje water. De padden kijken elkaar verslagen aan. Rijst is te plakkerig. Sneeuw smelt. Wat voor vulling moeten ze dan gebruiken om pad mee op te lappen?
 
