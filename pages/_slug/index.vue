@@ -32,6 +32,14 @@ export default {
       next,
     }
   },
+  computed: {
+    imageFullPath() {
+      return `${process.env.ROOT_PATH}${this.article.afbeelding_voor_listpage}`
+    },
+    twitterUrl() {
+      return `${process.env.ROOT_PATH}${this.$route.path}`
+    },
+  },
   head() {
     return {
       title: this.article.title,
@@ -55,7 +63,7 @@ export default {
         {
           hid: 'og:image',
           property: 'og:image',
-          content: this.article.afbeelding_voor_listpage,
+          content: this.imageFullPath,
         },
         // Twitter Card
         {
@@ -67,6 +75,16 @@ export default {
           hid: 'twitter:description',
           name: 'twitter:description',
           content: this.article.og_description,
+        },
+        {
+          hid: 'twitter:image',
+          name: 'twitter:image',
+          content: this.imageFullPath,
+        },
+        {
+          hid: 'twitter:url',
+          name: 'twitter:url',
+          content: this.twitterUrl,
         },
       ],
     }

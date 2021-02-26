@@ -8,7 +8,9 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Pad en pad beleven een groot avontuur als ze erachter komen dat pad blauw dringend hulp nodig heeft.' }
+      { hid: 'description', name: 'description', content: 'Pad en pad beleven een groot avontuur als ze erachter komen dat pad blauw dringend hulp nodig heeft.' },
+      { hid: 'twitter:card', name: 'twitter:card', content: 'summary'},
+      { hid: 'twitter:url', name: 'twitter:url', content: 'https://pads-adventures.plint-demos.nl'},
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
@@ -20,7 +22,8 @@ export default {
   ],
 
   env: {
-    local: process.env.NODE_ENV !== 'production'
+    local: process.env.NODE_ENV !== 'production',
+    ROOT_PATH: 'https://pads-adventures.plint-demos.nl',
   },
 
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
