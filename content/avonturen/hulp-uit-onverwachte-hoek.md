@@ -2,6 +2,7 @@
 title: 5. Hulp uit onverwachte hoek
 description: De padden komen in contact met Baerke en Mimi. De cavia's leven op zaagsel en vinden het heerlijk zacht, zou
   dat de oplossing zijn?
+og_description: De padden komen in contact met cavia's Baerke en Mimi
 afbeelding_voor_listpage: "/images/5-4-pad-en-pad-op-cavia-a.jpg"
 published: true
 publishing_date: 2021-02-17T09:07:12Z

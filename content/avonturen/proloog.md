@@ -1,6 +1,7 @@
 ---
 title: Proloog
 description: Ouwe pad overdenkt zijn leven
+og_description: Ouwe pad overdenkt zijn leven
 afbeelding_voor_listpage: "/images/proloog-list-avonturen-van-pad.jpg"
 published: true
 publishing_date: 2021-01-17T23:00:00.000+00:00

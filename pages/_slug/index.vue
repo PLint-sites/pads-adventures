@@ -42,11 +42,20 @@ export default {
           content: this.article.description,
         },
         // Open Graph
-        { hid: 'og:title', property: 'og:title', content: this.article.title },
+        { 
+          hid: 'og:title', 
+          property: 'og:title', 
+          content: this.article.title 
+        },
         {
           hid: 'og:description',
           property: 'og:description',
-          content: this.article.description,
+          content: this.article.og_description,
+        },
+        {
+          hid: 'og:image',
+          property: 'og:image',
+          content: this.article.afbeelding_voor_listpage,
         },
         // Twitter Card
         {
@@ -57,7 +66,7 @@ export default {
         {
           hid: 'twitter:description',
           name: 'twitter:description',
-          content: this.article.description,
+          content: this.article.og_description,
         },
       ],
     }

@@ -2,6 +2,7 @@
 title: 6. De berenraad
 description: De ouwe gele roept de berenraad bijeen. Een grote groep wijze en oudere
   beren komt bij elkaar om het probleem van de padden van een oplossing te voorzien.
+og_description: De ouwe gele roept de berenraad bijeen. Hebben zij de oplossing?
 afbeelding_voor_listpage: "/images/week6-berenraad-a.jpg"
 published: true
 publishing_date: 2021-02-24T08:13:12.000+00:00

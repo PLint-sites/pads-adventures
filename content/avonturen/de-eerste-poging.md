@@ -2,6 +2,7 @@
 title: 4. De eerste poging
 description: Onze padden gaan naar huis om te beginnen met hun zoektocht naar vulling
   voor pad blauw
+og_description: De padden gaan thuis op zoek naar vulling voor pad blauw
 afbeelding_voor_listpage: "/images/3-rijstpan-b.jpg"
 published: true
 publishing_date: 2021-02-09T23:00:00.000+00:00

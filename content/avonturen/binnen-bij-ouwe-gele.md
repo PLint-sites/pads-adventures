@@ -2,6 +2,7 @@
 title: 3. Binnen bij ouwe gele
 description: De padden worden binnen uitgenodigd bij de ouwe gele. Hier doen ze hun
   verhaal. Komt de ouwe gele hen te hulp?
+og_description: De padden vertellen hun verhaal aan de ouwe gele. Kan hij hen helpen?
 afbeelding_voor_listpage: "/images/listpage.jpg"
 published: true
 publishing_date: 2021-02-03T14:47:15Z
