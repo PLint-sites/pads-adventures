@@ -4,6 +4,16 @@
       <v-card>
         <v-card-text>
           <nuxt-content :document="article" />
+
+          <ShareNetwork 
+            network="facebook"
+            :url="pageUrl"
+            :title="article.title" 
+            :description="article.description"
+          >
+            <div class="social green lighten-1 text-center px-5 py-3 white--text">Anderen willen dit ook lezen! Deel het op Facebook</div>
+          </ShareNetwork>
+          
         </v-card-text>
       </v-card>
     </v-col>
@@ -36,7 +46,7 @@ export default {
     imageFullPath() {
       return `${process.env.ROOT_PATH}${this.article.afbeelding_voor_listpage}`
     },
-    twitterUrl() {
+    pageUrl() {
       return `${process.env.ROOT_PATH}${this.$route.path}`
     },
   },
@@ -84,7 +94,7 @@ export default {
         {
           hid: 'twitter:url',
           name: 'twitter:url',
-          content: this.twitterUrl,
+          content: this.pageUrl,
         },
       ],
     }
@@ -104,5 +114,13 @@ export default {
 
 .nuxt-content p:nth-child(n+3) {
   text-indent: 20px;
+}
+
+.share-network-facebook {
+  text-decoration: none;
+}
+
+.social {
+  font-size: 16px;
 }
 </style>
