@@ -31,6 +31,39 @@ export default {
       articles,
     }
   },
+  head() {
+    return {
+      meta: [
+        // Open Graph
+        { 
+          hid: 'og:title', 
+          property: 'og:title', 
+          content: 'Avonturen van Pad'
+        },
+        {
+          hid: 'og:description',
+          property: 'og:description',
+          content: 'Pad en pad gaan op avontuur: ze moeten pad blauw redden',
+        },
+        {
+          hid: 'og:image',
+          property: 'og:image',
+          content: '/images/proloog-list-avonturen-van-pad.jpg',
+        },
+        // Twitter Card
+        {
+          hid: 'twitter:title',
+          name: 'twitter:title',
+          content: 'Avonturen van Pad',
+        },
+        {
+          hid: 'twitter:description',
+          name: 'twitter:description',
+          content: 'Pad en pad gaan op avontuur: ze moeten pad blauw redden',
+        },
+      ],
+    }
+  },
   methods: {
     background(filename) {
       return {
