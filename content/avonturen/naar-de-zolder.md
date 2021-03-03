@@ -4,7 +4,7 @@ description: Thuis aangekomen ontmoeten de padden de tekkel. Deze heeft vernomen
   de vulwol waar ze naar op zoek zijn op zolder te vinden is.
 og_description: Thuis aangekomen krijgen de padden het advies om op zolder te kijken
 afbeelding_voor_listpage: "/images/3-pad-in-kussen.jpg"
-published: false
+published: true
 publishing_date: 2021-03-03T08:13:12.000+00:00
 
 ---
