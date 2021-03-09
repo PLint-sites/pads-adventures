@@ -10,7 +10,7 @@ publishing_date: 2021-03-03T08:13:12.000+00:00
 ---
 # De ontvoering
 
-De kussen vulling ging dus niet werken om pad blauw te redden. Te grove stukken en te groot. Pad blauw had het wel gehad op zolder en ging vast op weg naar beneden. Pad geel bleef nog even boven: hij vond het veel te leuk om te spelen met de vulling. Grote plukken vlogen door de lucht en je kon pad geel van een afstandje horen: 'sneeuw, sneeuw, sneeuw.' Hij was door het dolle.
+De kussenvulling ging dus niet werken om pad blauw te redden. Te grove stukken en te groot. Pad blauw had het wel gehad op zolder en ging vast op weg naar beneden. Pad geel bleef nog even boven: hij vond het veel te leuk om te spelen met de vulling. Grote plukken vlogen door de lucht en je kon pad geel van een afstandje horen: 'sneeuw, sneeuw, sneeuw.' Hij was door het dolle.
 
 Ondertussen hupste pad blauw de trap af. Tree voor tree plofte hij omlaag. Plotseling werd hij met grof geweld van de trap getrokken. Twee overvallers sleurden hem mee het hoekje om de kleinste kamer in. Zijn pootjes werden achter zijn rug vastgebonden. Pad blauw wist niet goed wat hem overkwam en kon er dus ook niks aan doen. Hij hoorde wat gegniffel achter zich en toen ving hij een glimp op van zijn overvallers. Ze waren met zijn tweeën, groen van kleur met lange haren vol klitten. 'We hebben er eentje te pakken' zei de ene. 'Trek hem zijn jas eens uit, die wil ik hebben,' zei de andere. En zo verloor pad blauw zijn jas. 'Kijk eens of hij ook schoenen en een broek aan heeft en gooi hem daarna maar in de pot.' Ze lieten er geen gras over groeien en die arme pad kon geen kant op.
 
