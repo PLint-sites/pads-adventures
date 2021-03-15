@@ -1,6 +1,7 @@
 ---
 title: 9. De vondst
-description: Met de overgebleven trol als gids weten de padden langs de vallende kussens te komen. Vinden ze de zuivere vulwol in de grote grijze container?
+description: Met de overgebleven trol als gids weten de padden langs de vallende kussens
+  te komen. Vinden ze de zuivere vulwol in de grote grijze container?
 og_description: De vallende kussens worden verslagen, maar vinden ze de vulwol?
 afbeelding_voor_listpage: "/images/week8-3-pad-in-pan-a.jpg"
 published: false
@@ -8,3 +9,21 @@ publishing_date: 2021-03-17T08:44:46.000+00:00
 
 ---
 # De vondst
+
+Naar beneden ging zonder problemen. De overgebleven trol was behoorlijk meegaand, waarschijnlijk in shock na wat haar metgezel was overkomen. Ze ging de padden voor door het huis. Nu ging ze ineens langzamer lopen. Pad geel botste bijna tegen haar op en ze draaide zich snel om: 'rustig aan, we komen in de buurt.' Pad geel rolde met zijn ogen. Het zal wel dacht hij. De trol stopte bij het volgende kozijn. De deur stond open op een kier. 'We zullen moeten wachten tot ze weg zijn,' zei ze zachtjes tegen de padden.
+
+'Wie?' vroeg pad blauw, 'wie zijn daar dan?'
+
+'Die mensen. Als ze me zien snappen ze niet dat ik niet gewoon in de kast zit. Dan pakken ze me op en zetten me terug. Dan duurt het nog een stuk langer voor ik jullie de vulwol kan laten zien.'
+
+Het begon pad blauw te dagen. 'Oh, je bedoelt Pee en het meisje,' ja als die je in handen krijgen dan willen ze altijd knuffelen. Of je moet mee kijken naar de tv. We wachten wel tot ze naar bed zijn. Dan hebben we vrij spel.' Zo gezegd zo gedaan. Pad geel wilde wel een dutje doen, maar dan moest pad blauw de trol bewaken. Zou ze proberen te ontsnappen? Een kort overleg bracht uitkomst. De trol werd opgesloten in de gangkast. Pad. blauw sprak haar nog even streng toe en daarna sloten de padden de ogen. Uit het zicht natuurlijk, anders zouden ze alsnog opgemerkt worden.
+
+Een zacht getik op de deur van de gangkast wekte de padden. 'Hallo, zijn jullie daar?' Pad geel liet de trol vrij. De kust was veilig en gedrieën betraden ze de kamer. De spookachtige vormen van de vallende kussens waren in het maanlicht dat door het zijraampje viel goed te zien. Ze torenden hoog boven de padden uit.
+
+Je moet niet vergeten dat een pad maar een klein beertje is. Zo'n kussen is wel een halve meter hoog en waarschijnlijk net zo groot als een matras voor ons mensen. Als ze dan ook nog eens op magische wijze kunnen bewegen dan begrijp je het gevaar voor de padden. 
+
+Maar ze hadden de trol en die moest haar waarde nu gaan bewijzen. In de verte was de grote grijze container waar de vulwol in zou moeten zitten zichtbaar. Op het pad ernaartoe stonden vier kussens. Twee stonden schuin tegen de bijzettafel aan. Twee andere lagen op de bank. Pad geel wilde eigenlijk niet gaan. 'Stel je voor dat zo'n kussen van de bank valt, precies op mijn hoofd.' Maar pad blauw overtuigde hem van de noodzaak van hun queeste. 'We proberen jouw beste vriend te redden, pad geel. Kom op!'
+
+En daar gingen ze. Vlak bij het eerste kussen stopte de trol. 'Ik kan deze afleiden zodat jullie er langs kunnen,' zei ze en ze voegde de daad bij het woord. Langzaam maar doelbewust liep ze aan de linkerkant langs het tafeltje waar het kussen tegenaan leunde. Ze deed steeds een stapje vooruit en dan snel weer een stap terug. Zo vorderde ze nauwelijks, maar het kussen bleef op zijn plaats. Plotseling bewoog het toch. Het kussen helde schuin en liet de tafel even los. De trol deed een stap terug en stond stokstijf stil. Het kussen zakte terug. Pad blauw liet zijn adem ontsnappen en maakte pad geel zijn pootjes los die de zijne in een wurggreep hadden. 'Het is zo spannend, ik durf niet zo goed,' fluisterde pad geel. 'Even doorzetten, het lukt er wel en dan hebben we de eerste erop zitten,' zei pad blauw. De trol deed weer een stap naar voren en daar ging het kussen weer. Nu was ze al wat verder langs het kussen geslopen. Op het moment dat de zwaartekracht het kussen in de greep kreeg en het om begon te vallen was ze er langs. De padden slopen dichterbij en kwamen ook langs dit eerste kussen. 
+
+Nog drie te gaan. Het tweede kussen werd op dezelfde manier vakkundig omzeild. Ook die viel met een zachte bons op de grond. Ze kwamen in de buurt van de grote container. 'We gaan het halen,' zei pad geel. 
