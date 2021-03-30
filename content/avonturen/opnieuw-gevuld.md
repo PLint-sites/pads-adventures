@@ -3,7 +3,7 @@ title: 10. Opnieuw gevuld
 description: Pad blauw is gered. De nieuwe vulling geeft hem weer zin in het leven
   en een volwaardiger zelfbeeld. Hij kijkt lachend de toekomst tegemoet.
 og_description: Pad blauw is gered en opnieuw gevuld.
-afbeelding_voor_listpage: "/images/week9-4-pad-rood.jpg"
+afbeelding_voor_listpage: "/images/week10-list.jpg"
 published: false
 publishing_date: 2021-03-31T08:44:46.000+00:00
 
@@ -20,6 +20,8 @@ En toen werd hij ineens naar beneden gehaald. Op tafel een grote zak, groter dan
 
 'Ik hoop dat ik genoeg heb,' zei ze, terwijl ze eerste stukjes in pad zijn pootjes stopte. Daarna volgde zijn hoed, zijn billen en tenslotte zijn lijf. De vulwol bleef aardig zitten en ze zagen alle vier dat pad er snel van opknapte. 
 
+![](/images/week10-1-bloterik.jpg)
+
 'Hij lijkt weer op een pad,' glunderde Jeh.
 
 'Gauw, doe hem zijn jas aan,' vulde Pee aan. 'Dan komt het er niet aan de voorkant weer uit.'
@@ -30,6 +32,8 @@ En daar was het moment. Jeh wachtte nog heel even en knipte wederom met zijn vin
 
 'Kijk, hij kan zelfs weer zitten. Goeie ouwe pad!'
 
+![](/images/week10-2-pad-met-jas.jpg)
+
 Met zijn vulling was ook Jehs liefde weer helemaal terug. Hij gaf pad een knuffel, stopte hem zelfs even in zijn nekkie. Pad zelf kon het nog niet helemaal bevatten. Hij voelde zich stevig en sterk. Als een jonge pad.
 
 De hele middag bleef hij beneden. In de buurt van Jeh terwijl ze een spelletje speelden. Hij was nog wel snel moe, maar hij kon gewoon wegkruipen op Jehs schouder en even een tukje doen. Pad voelde zich weer helemaal gelukkig.
@@ -37,3 +41,5 @@ De hele middag bleef hij beneden. In de buurt van Jeh terwijl ze een spelletje s
 Pee en Leonie gingen er later weer vandoor. 'Behandel hem goed, die arme pad,' drong Pee aan, hij verdient een zacht bed en een knuffel van jou. Jeh beloofde dat te doen. Pad zou weer op het voetstuk geplaatst worden waar hij al een poosje geleden vanaf was gevallen. Met zijn nieuwe vulling, stevige pootjes en gevulde buik, zou hij het zelf ook niet zover meer laten komen. 
 
 's Nachts was het stil in huis, Hij lag in bed bij Jeh. Maar hij was niet vergeten wie hij nog moest bedanken. Pad glipte uit bed en maakte met Jehs telefoon een selfie die hij naar Pee stuurde. Hopelijk zouden pad geel en pad blauw het zien en zien dat hij het goed maakte.
+
+![](/images/week10-3-selfie.jpg)
