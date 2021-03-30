@@ -4,8 +4,8 @@ description: Pad blauw is gered. De nieuwe vulling geeft hem weer zin in het lev
   en een volwaardiger zelfbeeld. Hij kijkt lachend de toekomst tegemoet.
 og_description: Pad blauw is gered en opnieuw gevuld.
 afbeelding_voor_listpage: "/images/week10-list.jpg"
-published: false
-publishing_date: 2021-03-31T08:44:46.000+00:00
+published: true
+publishing_date: 2021-03-30T20:18:46.000+00:00
 
 ---
 # Opnieuw gevuld
