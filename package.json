@@ -11,7 +11,7 @@
   "dependencies": {
     "@nuxt/content": "^1.14.0",
     "@nuxtjs/axios": "^5.13.1",
-    "core-js": "^3.11.1",
+    "core-js": "^3.13.0",
     "dayjs": "^1.10.4",
     "nuxt": "^2.15.4",
     "vue-social-sharing": "^3.0.7"
