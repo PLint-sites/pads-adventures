@@ -12,7 +12,7 @@
     "@nuxt/content": "^1.14.0",
     "@nuxtjs/axios": "^5.13.1",
     "core-js": "^3.11.1",
-    "dayjs": "^1.10.4",
+    "dayjs": "^1.10.5",
     "nuxt": "^2.15.4",
     "vue-social-sharing": "^3.0.7"
   },
