@@ -1,4 +1,4 @@
-# simple-cms
+# pads-adventures
 
 This is a nuxt project that uses nuxt-content and Forestry.io to create a very simple and yet powerfull CMS that you can deploy almost anywhere.
 
